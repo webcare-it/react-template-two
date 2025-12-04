@@ -1,5 +1,5 @@
 // JUST HAVE TO CHANGE IT
-export const BACKEND_URL = `https://enterprise.droploo.com`;
+export const BACKEND_URL = `https://backend.example.com`;
 
 /** DON'T TOUCH HERE */
 export const BASE_URL = `${BACKEND_URL}/api/v2`;
